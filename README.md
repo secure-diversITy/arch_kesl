@@ -1,5 +1,12 @@
 # About
 
+<br/><br/>
+
+_**for obvious (ethical and moral) reasons I will not continue packaging kesl anymore. it was a lot of work which goes to ... but well that's a very small price compared to what happens currently in Ukraine**_
+
+
+<br/><br/><br/><br/>
+
 Arch package for Kaspersky Endpoint Security for Linux (KESL)
 
 ## Features
